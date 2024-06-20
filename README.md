@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bootstrap**
 
-- 💬 Ask me about **IOT, Python , Raspberry Pi, Machine learning and**
+- 💬 Ask me about **IOT, Python , Raspberry Pi, Machine learning and Web Development**
 
 - 📫 How to reach me **shyamnair488@gmail.com**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamnair488&label=Profile%20views&color=0e75b6&style=flat" alt="shyamnair488" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Salesforce**
 
 - 💬 Ask me about **IOT, Python , Raspberry Pi, Machine learning and Web Development**
 

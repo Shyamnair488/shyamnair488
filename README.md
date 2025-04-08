@@ -4,15 +4,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shyamnair488&label=Profile%20views&color=0e75b6&style=flat" alt="shyamnair488" />
-  <a href="https://twitter.com/intent/follow?screen_name=your_twitter">
-    <img src="https://img.shields.io/twitter/follow/your_twitter?style=social" alt="Twitter Follow" />
-  </a>
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyamnair488&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+
 
 ## 🚀 About Me
 
@@ -88,7 +82,7 @@
 
 ## 📚 Research & Publications
 <div align="center">
-  <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" target="_blank">
+  <a href="https://scholar.google.com/citations?user=7hdzlhAAAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
 </div>
@@ -105,27 +99,12 @@
   <a href="https://instagram.com/froze_488" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/your_twitter" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/your_devto" target="blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
 </div>
 
-## 💰 Support
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/shyamnair">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</div>
 
 ---
 
-<div align="center">
-  <img src="https://github.com/shyamnair488/shyamnair488/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quotes" />

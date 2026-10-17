@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="380" viewBox="0 0 500 380" role="img"><title>Live Stats</title>
+<defs>
+<linearGradient id="g-accent" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#00f7ff"/><stop offset="1" stop-color="#7b2ff7"/>
+</linearGradient>
+<linearGradient id="g-warm" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#ff4d8d"/><stop offset="1" stop-color="#f1c40f"/>
+</linearGradient>
+<linearGradient id="g-panel" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/>
+</linearGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+  <feGaussianBlur stdDeviation="3" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<style>text{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}</style>
+<rect x="1" y="1" width="498" height="378" rx="16" fill="url(#g-panel)" stroke="#30363d" stroke-width="2"/><rect x="28" y="1" width="90" height="3" rx="1.5" fill="url(#g-accent)"/><text x="30" y="40" font-size="18" font-weight="800" fill="#e6edf3">Live Stats</text><text class="m" x="30" y="58" font-size="12" fill="#8b949e">from my real contribution calendar</text><rect x="30" y="80" width="205" height="130" rx="12" fill="#0d1117" stroke="#30363d"/><text x="46" y="118" font-size="24">🔥</text><text x="46" y="166" font-size="42" font-weight="800" fill="url(#g-accent)">1<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3;1" dur="1s" fill="freeze"/></text><text class="m" x="46" y="192" font-size="12" fill="#8b949e">current streak (days)</text><rect x="253" y="80" width="205" height="130" rx="12" fill="#0d1117" stroke="#30363d"/><text x="269" y="118" font-size="24">🏆</text><text x="269" y="166" font-size="42" font-weight="800" fill="url(#g-warm)">10<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3;1" dur="1s" fill="freeze"/></text><text class="m" x="269" y="192" font-size="12" fill="#8b949e">longest streak (days)</text><rect x="30" y="228" width="205" height="130" rx="12" fill="#0d1117" stroke="#30363d"/><text x="46" y="266" font-size="24">⚡</text><text x="46" y="314" font-size="42" font-weight="800" fill="url(#g-accent)">541<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3;1" dur="1s" fill="freeze"/></text><text class="m" x="46" y="340" font-size="12" fill="#8b949e">contributions · 12 months</text><rect x="253" y="228" width="205" height="130" rx="12" fill="#0d1117" stroke="#30363d"/><text x="269" y="266" font-size="24">⭐</text><text x="269" y="314" font-size="42" font-weight="800" fill="url(#g-warm)">92<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3;1" dur="1s" fill="freeze"/></text><text class="m" x="269" y="340" font-size="12" fill="#8b949e">stars earned</text>
+</svg>

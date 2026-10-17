@@ -18,6 +18,10 @@
 </div>
 
 <!--START_SECTION:spotlight-->
+> 🎯 **Repo of the day:** [commit-booster](https://github.com/Shyamnair488/commit-booster)  
+> <sub>TypeScript · ★ 0 · updated 7mo ago</sub>
+>
+> 💭 *Simplicity is prerequisite for reliability.*
 <!--END_SECTION:spotlight-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -61,11 +65,32 @@
 <sub>Cards are generated from the live repo data, so stars and update times stay current.</sub>
 
 <!--START_SECTION:featured-->
+<div align="center">
+
+<a href="https://github.com/Shyamnair488/agro-robot"><img src="assets/project-1.svg" width="49%" alt="agro-robot"/></a>
+<a href="https://github.com/Shyamnair488/Ocular-Disease-Classification-Using-Vision-Transformers"><img src="assets/project-2.svg" width="49%" alt="Ocular-Disease-Classification-Using-Vision-Transformers"/></a>
+<a href="https://github.com/Shyamnair488/Speech-to-Text"><img src="assets/project-3.svg" width="49%" alt="Speech-to-Text"/></a>
+<a href="https://github.com/Shyamnair488/Friday-Companion-2.0"><img src="assets/project-4.svg" width="49%" alt="Friday-Companion-2.0"/></a>
+<a href="https://github.com/Shyamnair488/QuickLoan-AWS-Project"><img src="assets/project-5.svg" width="49%" alt="QuickLoan-AWS-Project"/></a>
+<a href="https://github.com/Shyamnair488/Autoscaling-AWS-MinorProject1"><img src="assets/project-6.svg" width="49%" alt="Autoscaling-AWS-MinorProject1"/></a>
+<a href="https://github.com/Shyamnair488/esp8266-wifi-repeater"><img src="assets/project-7.svg" width="49%" alt="esp8266-wifi-repeater"/></a>
+<a href="https://github.com/Shyamnair488/Virtual-Mouse"><img src="assets/project-8.svg" width="49%" alt="Virtual-Mouse"/></a>
+<a href="https://github.com/Shyamnair488/Book-My-Farm"><img src="assets/project-9.svg" width="49%" alt="Book-My-Farm"/></a>
+<a href="https://github.com/Shyamnair488/flask-hello-world-ecr"><img src="assets/project-10.svg" width="49%" alt="flask-hello-world-ecr"/></a>
+
+</div>
 <!--END_SECTION:featured-->
 
 ### 🔴 Live on the Web
 
 <!--START_SECTION:live-sites-->
+| | Project | Link |
+|:-:|:--|:--|
+| 🎙️ | **Speech-to-Text** | [speech-to-text-nine-mauve.vercel.app](https://speech-to-text-nine-mauve.vercel.app) |
+| ☀️ | **SUN** | [sun-fawn-alpha.vercel.app](https://sun-fawn-alpha.vercel.app) |
+| 🎲 | **Housie Website** | [housie-html-website.vercel.app](https://housie-html-website.vercel.app) |
+| ▲ | **Next.js playground** | [nextjs-five-mu-57.vercel.app](https://nextjs-five-mu-57.vercel.app) |
+| 👤 | **Portfolio** | [shyam-nair.vercel.app](https://shyam-nair.vercel.app) |
 <!--END_SECTION:live-sites-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -79,11 +104,27 @@
 ### 🔥 Recently Active
 
 <!--START_SECTION:recent-repos-->
+| 📦 Repository | 💬 About | 🧪 Language | ⭐ | 🕒 Last push |
+|:--|:--|:--:|:--:|:--:|
+| [**flask-hello-world-ecr**](https://github.com/Shyamnair488/flask-hello-world-ecr) | — | Python | 0 | 12d ago |
+| [**Docker-Zero-to-Hero**](https://github.com/Shyamnair488/Docker-Zero-to-Hero) | — | JavaScript | 0 | 2w ago |
+| [**docker-compose-project-python-flask**](https://github.com/Shyamnair488/docker-compose-project-python-flask) | — | Python | 0 | 2w ago |
+| [**QuickLoan-AWS-Project**](https://github.com/Shyamnair488/QuickLoan-AWS-Project) | — | HTML | 0 | 7w ago |
+| [**Autoscaling-AWS-MinorProject1**](https://github.com/Shyamnair488/Autoscaling-AWS-MinorProject1) | — | Shell | 0 | 8w ago |
+| [**barber-booking-AWS-MinorProject2**](https://github.com/Shyamnair488/barber-booking-AWS-MinorProject2) | — | JavaScript | 0 | 2mo ago |
 <!--END_SECTION:recent-repos-->
 
 ### 📡 Latest Activity
 
 <!--START_SECTION:activity-->
+- 🍴 Forked [avi691/linkedin-agent-skill](https://github.com/avi691/linkedin-agent-skill) · <sub>2d ago</sub>
+- 🍴 Forked [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth) · <sub>5d ago</sub>
+- 🍴 Forked [MeisApps/pcbu-desktop](https://github.com/MeisApps/pcbu-desktop) · <sub>5d ago</sub>
+- 🍴 Forked [Niko1221/Strata](https://github.com/Niko1221/Strata) · <sub>6d ago</sub>
+- 🍴 Forked [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) · <sub>6d ago</sub>
+- 🍴 Forked [666ghj/MiroFish](https://github.com/666ghj/MiroFish) · <sub>9d ago</sub>
+- 🌍 Open-sourced [Shyamnair488/commit-streak-booster](https://github.com/Shyamnair488/commit-streak-booster) · <sub>18mo ago</sub>
+- 🌍 Open-sourced [Shyamnair488/flask-hello-world-ecr](https://github.com/Shyamnair488/flask-hello-world-ecr) · <sub>12d ago</sub>
 <!--END_SECTION:activity-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -103,6 +144,177 @@
 ## 🗂️ Every Repository <sub>· auto-generated · 🍴 = fork</sub>
 
 <!--START_SECTION:all-repos-->
+<details>
+<summary><b>Jupyter Notebook</b> &nbsp;<sub>(21)</sub></summary>
+
+- [MNIST-Website](https://github.com/Shyamnair488/MNIST-Website)
+- [Computer-Vision-Trials](https://github.com/Shyamnair488/Computer-Vision-Trials)
+- [Data-Science-Practical](https://github.com/Shyamnair488/Data-Science-Practical)
+- [Great-Learning-](https://github.com/Shyamnair488/Great-Learning-)
+- [Natural-Language-Processing-Practical](https://github.com/Shyamnair488/Natural-Language-Processing-Practical)
+- [Machine-Learning-Algorithm-Practical](https://github.com/Shyamnair488/Machine-Learning-Algorithm-Practical)
+- [Soft-Computing-Practical-](https://github.com/Shyamnair488/Soft-Computing-Practical-)
+- [Tflite-ML-Code](https://github.com/Shyamnair488/Tflite-ML-Code)
+- [Data-Preprocessing-Practical](https://github.com/Shyamnair488/Data-Preprocessing-Practical)
+- [Deep-Learning-Practicals](https://github.com/Shyamnair488/Deep-Learning-Practicals)
+- [Reinforcement-Learning-Practical-](https://github.com/Shyamnair488/Reinforcement-Learning-Practical-)
+- [Mathematical-Foundation-for-Machine-learning-Practical-](https://github.com/Shyamnair488/Mathematical-Foundation-for-Machine-learning-Practical-)
+- [Image-Detection-Using-TensorFlow](https://github.com/Shyamnair488/Image-Detection-Using-TensorFlow)
+- [FREECODECAMP-ML-Code](https://github.com/Shyamnair488/FREECODECAMP-ML-Code)
+- [InterPe-Internship-Data-Block](https://github.com/Shyamnair488/InterPe-Internship-Data-Block)
+- [Handwritten-Digit-Recognition](https://github.com/Shyamnair488/Handwritten-Digit-Recognition) — This repository contains code for a simple web application that recognizes hand…
+- [Bharat-Intern-ML-Code-Hub](https://github.com/Shyamnair488/Bharat-Intern-ML-Code-Hub) — All 3 tasks aviliabe
+- [MNIST-Webcam-Prediction](https://github.com/Shyamnair488/MNIST-Webcam-Prediction)
+- [Detection_using_tflite](https://github.com/Shyamnair488/Detection_using_tflite)
+- [ML-Bootcamp](https://github.com/Shyamnair488/ML-Bootcamp) 🍴
+- [agro-robot](https://github.com/Shyamnair488/agro-robot) — agro robot tensorflow model
+
+</details>
+
+<details>
+<summary><b>TypeScript</b> &nbsp;<sub>(17)</sub></summary>
+
+- [docucraft-ai](https://github.com/Shyamnair488/docucraft-ai)
+- [buzz-code-academy](https://github.com/Shyamnair488/buzz-code-academy)
+- [Avil-Milk](https://github.com/Shyamnair488/Avil-Milk)
+- [document-dynamo](https://github.com/Shyamnair488/document-dynamo)
+- [commit-booster](https://github.com/Shyamnair488/commit-booster)
+- [lovable-gallery](https://github.com/Shyamnair488/lovable-gallery)
+- [learn-with-bees](https://github.com/Shyamnair488/learn-with-bees)
+- [tuition-sparkle-web](https://github.com/Shyamnair488/tuition-sparkle-web)
+- [carpet-corner-commerce-bot](https://github.com/Shyamnair488/carpet-corner-commerce-bot)
+- [Book-My-Farm](https://github.com/Shyamnair488/Book-My-Farm)
+- [commit-streak-booster](https://github.com/Shyamnair488/commit-streak-booster)
+- [New-Type-of-Carousel](https://github.com/Shyamnair488/New-Type-of-Carousel)
+- [Trial1](https://github.com/Shyamnair488/Trial1) · [🔴 live](https://trial1-alpha.vercel.app)
+- [enchanting-site-rebirth-main](https://github.com/Shyamnair488/enchanting-site-rebirth-main)
+- [nextjs](https://github.com/Shyamnair488/nextjs) · [🔴 live](https://nextjs-five-mu-57.vercel.app)
+- [devrath-industries](https://github.com/Shyamnair488/devrath-industries)
+- [Hello-lets-try](https://github.com/Shyamnair488/Hello-lets-try)
+
+</details>
+
+<details>
+<summary><b>Python</b> &nbsp;<sub>(14)</sub></summary>
+
+- [flask-hello-world-ecr](https://github.com/Shyamnair488/flask-hello-world-ecr)
+- [docker-compose-project-python-flask](https://github.com/Shyamnair488/docker-compose-project-python-flask)
+- [Virtual-Mouse](https://github.com/Shyamnair488/Virtual-Mouse)
+- [Speech-to-Text](https://github.com/Shyamnair488/Speech-to-Text) · [🔴 live](https://speech-to-text-nine-mauve.vercel.app)
+- [Friday-Companion-2.0](https://github.com/Shyamnair488/Friday-Companion-2.0)
+- [LLM-Model-testing](https://github.com/Shyamnair488/LLM-Model-testing)
+- [Speech-Reorganization-Model-Testing](https://github.com/Shyamnair488/Speech-Reorganization-Model-Testing) — Testing VOSK Speech Recoginizer Model
+- [Data-Extraction-from-ESP-8266-Using-Vs-code](https://github.com/Shyamnair488/Data-Extraction-from-ESP-8266-Using-Vs-code)
+- [Object_Detection_Code](https://github.com/Shyamnair488/Object_Detection_Code)
+- [ML-Model-Suggestor](https://github.com/Shyamnair488/ML-Model-Suggestor)
+- [Alarm-Clock](https://github.com/Shyamnair488/Alarm-Clock)
+- [Virtual-Hand-Mouse](https://github.com/Shyamnair488/Virtual-Hand-Mouse)
+- [AI-Friday-Companion](https://github.com/Shyamnair488/AI-Friday-Companion) — Welcome to AI-Friday-Companion, your intelligent AI assistant! Engage in seamle…
+- [Alarm_Clock](https://github.com/Shyamnair488/Alarm_Clock)
+
+</details>
+
+<details>
+<summary><b>JavaScript</b> &nbsp;<sub>(10)</sub></summary>
+
+- [Docker-Zero-to-Hero](https://github.com/Shyamnair488/Docker-Zero-to-Hero)
+- [barber-booking-AWS-MinorProject2](https://github.com/Shyamnair488/barber-booking-AWS-MinorProject2)
+- [Housie-HTML-Website](https://github.com/Shyamnair488/Housie-HTML-Website) — Housie HTML Website · [🔴 live](https://housie-html-website.vercel.app)
+- [SUN](https://github.com/Shyamnair488/SUN) · [🔴 live](https://sun-fawn-alpha.vercel.app)
+- [Book-My-Farm-Collection-server](https://github.com/Shyamnair488/Book-My-Farm-Collection-server)
+- [Email-Js](https://github.com/Shyamnair488/Email-Js)
+- [React-SS-Infotech-](https://github.com/Shyamnair488/React-SS-Infotech-)
+- [JS-Practice-](https://github.com/Shyamnair488/JS-Practice-)
+- [SET-UP-TAILWIND-CSS](https://github.com/Shyamnair488/SET-UP-TAILWIND-CSS)
+- [Weather-Website](https://github.com/Shyamnair488/Weather-Website)
+
+</details>
+
+<details>
+<summary><b>HTML</b> &nbsp;<sub>(6)</sub></summary>
+
+- [QuickLoan-AWS-Project](https://github.com/Shyamnair488/QuickLoan-AWS-Project)
+- [LWC](https://github.com/Shyamnair488/LWC)
+- [Daily-WEBD-data](https://github.com/Shyamnair488/Daily-WEBD-data)
+- [WebD](https://github.com/Shyamnair488/WebD)
+- [ToDo-List](https://github.com/Shyamnair488/ToDo-List)
+- [Dice-Roller](https://github.com/Shyamnair488/Dice-Roller)
+
+</details>
+
+<details>
+<summary><b>C++</b> &nbsp;<sub>(5)</sub></summary>
+
+- [esp8266-wifi-repeater](https://github.com/Shyamnair488/esp8266-wifi-repeater)
+- [IOT-PROJECT](https://github.com/Shyamnair488/IOT-PROJECT)
+- [Arduino-ESP8266-IOT-Projects](https://github.com/Shyamnair488/Arduino-ESP8266-IOT-Projects)
+- [Arduino-Esp8266-and-ESP32-Projects](https://github.com/Shyamnair488/Arduino-Esp8266-and-ESP32-Projects)
+- [Home-Automation-With-ESP8266](https://github.com/Shyamnair488/Home-Automation-With-ESP8266)
+
+</details>
+
+<details>
+<summary><b>Java</b> &nbsp;<sub>(2)</sub></summary>
+
+- [CV-ROBO-Backend-files](https://github.com/Shyamnair488/CV-ROBO-Backend-files)
+- [JAVA](https://github.com/Shyamnair488/JAVA)
+
+</details>
+
+<details>
+<summary><b>R</b> &nbsp;<sub>(1)</sub></summary>
+
+- [Movie_Recommendation_Using_R](https://github.com/Shyamnair488/Movie_Recommendation_Using_R) — This project offers a dynamic movie recommendation system developed using R. Wh…
+
+</details>
+
+<details>
+<summary><b>Shell</b> &nbsp;<sub>(1)</sub></summary>
+
+- [Autoscaling-AWS-MinorProject1](https://github.com/Shyamnair488/Autoscaling-AWS-MinorProject1)
+
+</details>
+
+<details>
+<summary><b>Other</b> &nbsp;<sub>(35)</sub></summary>
+
+- [geo-sleuth](https://github.com/Shyamnair488/geo-sleuth) 🍴 — An agent skill that finds where a photo was taken — OpenStreetMap geometry, ele…
+- [ai-engineering-from-scratch](https://github.com/Shyamnair488/ai-engineering-from-scratch) 🍴 — Learn AI Engineering! Learn it. Build it. Ship it for others.
+- [Strata](https://github.com/Shyamnair488/Strata) 🍴 — Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Li…
+- [pcbu-desktop](https://github.com/Shyamnair488/pcbu-desktop) 🍴 — Desktop app for PC Bio Unlock
+- [linkedin-agent-skill](https://github.com/Shyamnair488/linkedin-agent-skill) 🍴 — Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formul…
+- [MiroFish](https://github.com/Shyamnair488/MiroFish) 🍴 — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智…
+- [Git-Advanced-Commands](https://github.com/Shyamnair488/Git-Advanced-Commands) 🍴 — 22-07-2026 / AWS DevOps / Git Advanced Commands
+- [linkedin-skills](https://github.com/Shyamnair488/linkedin-skills) 🍴 — Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-so…
+- [MinecraftForge](https://github.com/Shyamnair488/MinecraftForge) 🍴 — Modifications to the Minecraft base files to assist in compatibility between mo…
+- [ultronmain](https://github.com/Shyamnair488/ultronmain) 🍴 — ultron main
+- [QuickLoan-Highly-Available-Loan-Application-Deployment-on-AWS](https://github.com/Shyamnair488/QuickLoan-Highly-Available-Loan-Application-Deployment-on-AWS) 🍴 — The objective of this project was to deploy a multi-tier Loan Application on AW…
+- [turbovec](https://github.com/Shyamnair488/turbovec) 🍴 — A vector index built on TurboQuant, written in Rust with Python bindings
+- [bumblebee](https://github.com/Shyamnair488/bumblebee) 🍴 — Read-only developer endpoint scanner for on-disk package, extension, and develo…
+- [RuView](https://github.com/Shyamnair488/RuView) 🍴 — π RuView turns commodity WiFi signals into real-time spatial intelligence, vita…
+- [mythos-agent](https://github.com/Shyamnair488/mythos-agent) 🍴 — The AI security agent guards your code.
+- [swarm-forge](https://github.com/Shyamnair488/swarm-forge) 🍴 — A simple tool for coordinating several AI agents.
+- [mythos-agent.](https://github.com/Shyamnair488/mythos-agent.) 🍴 — 🧠 Local AI agent inspired by Claude Mythos — Multi-model routing, autonomous to…
+- [Ocular-Disease-Classification-Using-Vision-Transformers](https://github.com/Shyamnair488/Ocular-Disease-Classification-Using-Vision-Transformers)
+- [3d-portfolio](https://github.com/Shyamnair488/3d-portfolio) 🍴 — 3d portfolio website which devs can use
+- [joinly](https://github.com/Shyamnair488/joinly) 🍴 — Make your meetings accessible to AI Agents
+- [public-apis](https://github.com/Shyamnair488/public-apis) 🍴 — A collective list of free APIs
+- [agentic](https://github.com/Shyamnair488/agentic) 🍴 — Hands-on LLM Engineering including Agentic AI Project
+- [awesome-llm-apps](https://github.com/Shyamnair488/awesome-llm-apps) 🍴 — Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic,…
+- [grafify](https://github.com/Shyamnair488/grafify) 🍴 — Easy grafs, ANOVAs and posthoc comparisons.
+- [ecommerce-database-schema](https://github.com/Shyamnair488/ecommerce-database-schema)
+- [N8n---Ai-Automation-Workflow](https://github.com/Shyamnair488/N8n---Ai-Automation-Workflow)
+- [improving-RAG-systems-dhs2024](https://github.com/Shyamnair488/improving-RAG-systems-dhs2024) 🍴 — This repository will contain the presentation and python jupyter notebooks for…
+- [30-Days-Of-JavaScript](https://github.com/Shyamnair488/30-Days-Of-JavaScript) 🍴 — 30 days of JavaScript programming challenge is a step-by-step guide to learn Ja…
+- [CultiKure-Disease-Prediction](https://github.com/Shyamnair488/CultiKure-Disease-Prediction) 🍴 — The Plant Disease Detection Web Application, known as 'CultiKure,' is a web-bas… · [🔴 live](https://culti-kure-disease-prediction.vercel.app)
+- [desktop-tutorial](https://github.com/Shyamnair488/desktop-tutorial) — GitHub Desktop tutorial repository
+- [Hacknow-Hackathon-Submission-2023](https://github.com/Shyamnair488/Hacknow-Hackathon-Submission-2023) 🍴 — Github Link Guidelins Repository must be public. Must include readme file in it…
+- [Detection-image](https://github.com/Shyamnair488/Detection-image)
+- [100-days-of-code-python](https://github.com/Shyamnair488/100-days-of-code-python) 🍴 — 100 Days of Code: The Complete Python Pro Bootcamp
+- [shyam](https://github.com/Shyamnair488/shyam)
+- [shyam-nair](https://github.com/Shyamnair488/shyam-nair)
+
+</details>
 <!--END_SECTION:all-repos-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -121,6 +333,7 @@ I'm open to **internships, freelance work and collaborations** in full stack dev
 <br/><br/>
 
 <!--START_SECTION:updated-->
+<sub>🤖 Auto-generated by GitHub Actions · last refreshed <b>17 Oct 2026, 16:49 UTC</b></sub>
 <!--END_SECTION:updated-->
 
 </div>

@@ -1,0 +1,89 @@
+name: Update Profile
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"      # every 6 hours, off the :00 mark to avoid peak load
+  workflow_dispatch:            # manual "Run workflow" button
+  push:
+    branches: [main]
+    paths:                      # rebuild when content or generator changes
+      - "profile.config.json"
+      - ".github/scripts/**"
+      - ".github/workflows/update-profile.yml"
+
+# One build at a time; never cancel a run that is mid-commit.
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  GH_USER: ${{ github.repository_owner }}
+  PYTHONUNBUFFERED: "1"
+
+jobs:
+  # --------------------------------------------------------------------- #
+  # 1. Rebuild every SVG in assets/ and the dynamic sections of README.md
+  # --------------------------------------------------------------------- #
+  build:
+    name: Build profile
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate assets and README sections
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/build_profile.py
+
+      - name: Commit changes (only when something changed)
+        run: |
+          git add README.md assets
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(profile): refresh stats and visuals [skip ci]"
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0
+            echo "Push failed (attempt ${attempt}), retrying..."
+            sleep $((attempt * 5))
+          done
+          echo "::error::Could not push after 3 attempts"
+          exit 1
+
+  # --------------------------------------------------------------------- #
+  # 2. Contribution snake (light + dark) published to the `output` branch
+  # --------------------------------------------------------------------- #
+  snake:
+    name: Contribution snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Build snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,181 @@
+{
+  "name": "Shyam Nair",
+  "handle": "Shyamnair488",
+  "location": "Nagpur, India",
+  "subtitle": "Full Stack  ·  Cloud & DevOps  ·  IoT  ·  AI / ML",
+  "roles": [
+    "building full stack web apps",
+    "deploying on AWS with Docker",
+    "wiring ESP8266 & ESP32 gadgets",
+    "training vision & speech models",
+    "shipping something new every week"
+  ],
+  "hidden_repos": [
+    "esp8266_deauther",
+    "airgorah",
+    "holehe"
+  ],
+  "featured": [
+    {
+      "repo": "agro-robot",
+      "blurb": "TensorFlow model powering an agricultural robot, bringing machine learning to precision farming.",
+      "tags": [
+        "TensorFlow",
+        "Python",
+        "Robotics"
+      ]
+    },
+    {
+      "repo": "Ocular-Disease-Classification-Using-Vision-Transformers",
+      "blurb": "Classifying eye diseases from medical images with Vision Transformers.",
+      "tags": [
+        "Deep Learning",
+        "ViT",
+        "Healthcare"
+      ]
+    },
+    {
+      "repo": "Speech-to-Text",
+      "blurb": "Speech recognition app deployed on Vercel, built on my VOSK recognizer experiments.",
+      "tags": [
+        "Python",
+        "VOSK",
+        "Vercel"
+      ]
+    },
+    {
+      "repo": "Friday-Companion-2.0",
+      "blurb": "A personal AI assistant in the spirit of FRIDAY, written in Python.",
+      "tags": [
+        "Python",
+        "LLM",
+        "Voice"
+      ]
+    },
+    {
+      "repo": "QuickLoan-AWS-Project",
+      "blurb": "A loan application deployed on AWS as part of my AWS DevOps training.",
+      "tags": [
+        "AWS",
+        "DevOps",
+        "HTML"
+      ]
+    },
+    {
+      "repo": "Autoscaling-AWS-MinorProject1",
+      "blurb": "Auto-scaling infrastructure on AWS that grows and shrinks with traffic.",
+      "tags": [
+        "AWS",
+        "Auto Scaling",
+        "Shell"
+      ]
+    },
+    {
+      "repo": "esp8266-wifi-repeater",
+      "blurb": "Turning a tiny ESP8266 board into a WiFi repeater.",
+      "tags": [
+        "C++",
+        "ESP8266",
+        "IoT"
+      ]
+    },
+    {
+      "repo": "Virtual-Mouse",
+      "blurb": "Control your cursor with computer vision. No extra hardware needed.",
+      "tags": [
+        "Python",
+        "OpenCV",
+        "CV"
+      ]
+    },
+    {
+      "repo": "Book-My-Farm",
+      "blurb": "Full stack farm-booking platform with a separate collection server.",
+      "tags": [
+        "TypeScript",
+        "React",
+        "Node.js"
+      ]
+    },
+    {
+      "repo": "flask-hello-world-ecr",
+      "blurb": "Containerised Flask app pushed to AWS ECR, part of my Docker journey.",
+      "tags": [
+        "Flask",
+        "Docker",
+        "ECR"
+      ]
+    }
+  ],
+  "live_sites": [
+    {
+      "emoji": "🎙️",
+      "name": "Speech-to-Text",
+      "url": "https://speech-to-text-nine-mauve.vercel.app"
+    },
+    {
+      "emoji": "☀️",
+      "name": "SUN",
+      "url": "https://sun-fawn-alpha.vercel.app"
+    },
+    {
+      "emoji": "🎲",
+      "name": "Housie Website",
+      "url": "https://housie-html-website.vercel.app"
+    },
+    {
+      "emoji": "▲",
+      "name": "Next.js playground",
+      "url": "https://nextjs-five-mu-57.vercel.app"
+    },
+    {
+      "emoji": "👤",
+      "name": "Portfolio",
+      "url": "https://shyam-nair.vercel.app"
+    }
+  ],
+  "orbit": [
+    [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "C++",
+      "Java"
+    ],
+    [
+      "React",
+      "Next.js",
+      "Node.js",
+      "Flask",
+      "Docker",
+      "AWS",
+      "Tailwind"
+    ],
+    [
+      "ESP32",
+      "ESP8266",
+      "Arduino",
+      "TensorFlow",
+      "OpenCV",
+      "Salesforce",
+      "n8n",
+      "Git",
+      "Linux"
+    ]
+  ],
+  "quotes": [
+    "Make it work, make it right, make it fast.",
+    "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "Simplicity is prerequisite for reliability.",
+    "First, solve the problem. Then, write the code.",
+    "The best way to predict the future is to build it.",
+    "Talk is cheap. Show me the code.",
+    "Done is better than perfect, but shipped is better than done.",
+    "Weeks of coding can save you hours of planning."
+  ],
+  "github_achievements": [
+    "Pull Shark",
+    "Quickdraw",
+    "YOLO"
+  ]
+}

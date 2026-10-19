@@ -81,17 +81,6 @@
 </div>
 <!--END_SECTION:featured-->
 
-### 🔴 Live on the Web
-
-<!--START_SECTION:live-sites-->
-| | Project | Link |
-|:-:|:--|:--|
-| 🎙️ | **Speech-to-Text** | [speech-to-text-nine-mauve.vercel.app](https://speech-to-text-nine-mauve.vercel.app) |
-| ☀️ | **SUN** | [sun-fawn-alpha.vercel.app](https://sun-fawn-alpha.vercel.app) |
-| 🎲 | **Housie Website** | [housie-html-website.vercel.app](https://housie-html-website.vercel.app) |
-| ▲ | **Next.js playground** | [nextjs-five-mu-57.vercel.app](https://nextjs-five-mu-57.vercel.app) |
-| 👤 | **Portfolio** | [shyam-nair.vercel.app](https://shyam-nair.vercel.app) |
-<!--END_SECTION:live-sites-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 

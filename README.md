@@ -18,10 +18,10 @@
 </div>
 
 <!--START_SECTION:spotlight-->
-> 🎯 **Repo of the day:** [Infinity-Snap-for-Google-Meet](https://github.com/Shyamnair488/Infinity-Snap-for-Google-Meet)  
-> <sub>JavaScript · ★ 0 · updated 3w ago</sub>
+> 🎯 **Repo of the day:** [Great-Learning-](https://github.com/Shyamnair488/Great-Learning-)  
+> <sub>Jupyter Notebook · ★ 2 · updated 2y ago</sub>
 >
-> 💭 *Weeks of coding can save you hours of planning.*
+> 💭 *Make it work, make it right, make it fast.*
 <!--END_SECTION:spotlight-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -95,25 +95,25 @@
 <!--START_SECTION:recent-repos-->
 | 📦 Repository | 💬 About | 🧪 Language | ⭐ | 🕒 Last push |
 |:--|:--|:--:|:--:|:--:|
+| [**argocd-app**](https://github.com/Shyamnair488/argocd-app) | — | Shell | 0 | today |
+| [**K8S-Trivy**](https://github.com/Shyamnair488/K8S-Trivy) | — | — | 0 | 2d ago |
+| [**Kubeadm**](https://github.com/Shyamnair488/Kubeadm) | — | — | 0 | 2d ago |
+| [**Ec2-Kubeadm**](https://github.com/Shyamnair488/Ec2-Kubeadm) | — | — | 0 | 2d ago |
 | [**Infinity-Snap-for-Google-Meet**](https://github.com/Shyamnair488/Infinity-Snap-for-Google-Meet) | — | JavaScript | 0 | 3w ago |
 | [**kubelab-eks-devops**](https://github.com/Shyamnair488/kubelab-eks-devops) | — | HTML | 0 | 3w ago |
-| [**flask-hello-world-ecr**](https://github.com/Shyamnair488/flask-hello-world-ecr) | — | Python | 0 | 5w ago |
-| [**Docker-Zero-to-Hero**](https://github.com/Shyamnair488/Docker-Zero-to-Hero) | — | JavaScript | 0 | 6w ago |
-| [**docker-compose-project-python-flask**](https://github.com/Shyamnair488/docker-compose-project-python-flask) | — | Python | 0 | 7w ago |
-| [**QuickLoan-AWS-Project**](https://github.com/Shyamnair488/QuickLoan-AWS-Project) | — | HTML | 0 | 2mo ago |
 <!--END_SECTION:recent-repos-->
 
 ### 📡 Latest Activity
 
 <!--START_SECTION:activity-->
+- 🌍 Open-sourced [Shyamnair488/Ec2-Kubeadm](https://github.com/Shyamnair488/Ec2-Kubeadm) · <sub>2d ago</sub>
+- 🌍 Open-sourced [Shyamnair488/Kubeadm](https://github.com/Shyamnair488/Kubeadm) · <sub>2d ago</sub>
+- 🌍 Open-sourced [Shyamnair488/K8S-Trivy](https://github.com/Shyamnair488/K8S-Trivy) · <sub>2d ago</sub>
+- 🌍 Open-sourced [Shyamnair488/argocd-app](https://github.com/Shyamnair488/argocd-app) · <sub>1d ago</sub>
 - 🍴 Forked [storytold/craft-anything](https://github.com/storytold/craft-anything) · <sub>today</sub>
+- ⬆️ Pushed to [Shyamnair488/argocd-app](https://github.com/Shyamnair488/argocd-app) · <sub>1d ago</sub>
+- 🌍 Open-sourced [Shyamnair488/argocd-app](https://github.com/Shyamnair488/argocd-app) · <sub>1d ago</sub>
 - 🍴 Forked [tt-a1i/archify](https://github.com/tt-a1i/archify) · <sub>1d ago</sub>
-- 🍴 Forked [m-afham/AirCursor](https://github.com/m-afham/AirCursor) · <sub>1d ago</sub>
-- 🍴 Forked [ayshishannidhya/fake-step-writer](https://github.com/ayshishannidhya/fake-step-writer) · <sub>4d ago</sub>
-- ⬆️ Pushed to [Shyamnair488/dossier](https://github.com/Shyamnair488/dossier) · <sub>13d ago</sub>
-- 🍴 Forked [AienTech/dossier](https://github.com/AienTech/dossier) · <sub>13d ago</sub>
-- 🍴 Forked [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) · <sub>2w ago</sub>
-- 🍴 Forked [makecindy/cindy](https://github.com/makecindy/cindy) · <sub>2w ago</sub>
 <!--END_SECTION:activity-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -256,6 +256,14 @@
 </details>
 
 <details>
+<summary><b>Shell</b> &nbsp;<sub>(2)</sub></summary>
+
+- [argocd-app](https://github.com/Shyamnair488/argocd-app)
+- [Autoscaling-AWS-MinorProject1](https://github.com/Shyamnair488/Autoscaling-AWS-MinorProject1)
+
+</details>
+
+<details>
 <summary><b>R</b> &nbsp;<sub>(1)</sub></summary>
 
 - [Movie_Recommendation_Using_R](https://github.com/Shyamnair488/Movie_Recommendation_Using_R) — This project offers a dynamic movie recommendation system developed using R. Wh…
@@ -263,17 +271,13 @@
 </details>
 
 <details>
-<summary><b>Shell</b> &nbsp;<sub>(1)</sub></summary>
-
-- [Autoscaling-AWS-MinorProject1](https://github.com/Shyamnair488/Autoscaling-AWS-MinorProject1)
-
-</details>
-
-<details>
-<summary><b>Other</b> &nbsp;<sub>(42)</sub></summary>
+<summary><b>Other</b> &nbsp;<sub>(45)</sub></summary>
 
 - [craft-anything](https://github.com/Shyamnair488/craft-anything) 🍴 — Craft Anything: understand how any software works, and craft your own.
 - [archify](https://github.com/Shyamnair488/archify) 🍴 — Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent…
+- [K8S-Trivy](https://github.com/Shyamnair488/K8S-Trivy)
+- [Kubeadm](https://github.com/Shyamnair488/Kubeadm)
+- [Ec2-Kubeadm](https://github.com/Shyamnair488/Ec2-Kubeadm)
 - [AirCursor](https://github.com/Shyamnair488/AirCursor) 🍴 — Use your AirPods as a mouse on macOS — turn your head to point, rest on a butto…
 - [fake-step-writer](https://github.com/Shyamnair488/fake-step-writer) 🍴 — Get free Lenskart frame without walking 20,000 steps. This Android app writes f…
 - [cindy](https://github.com/Shyamnair488/cindy) 🍴 — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。…
@@ -334,7 +338,7 @@ I'm open to **internships, freelance work and collaborations** in full stack dev
 <br/><br/>
 
 <!--START_SECTION:updated-->
-<sub>🤖 Auto-generated by GitHub Actions · last refreshed <b>15 Nov 2026, 18:54 UTC</b></sub>
+<sub>🤖 Auto-generated by GitHub Actions · last refreshed <b>16 Nov 2026, 06:39 UTC</b></sub>
 <!--END_SECTION:updated-->
 
 </div>

@@ -18,8 +18,8 @@
 </div>
 
 <!--START_SECTION:spotlight-->
-> 🎯 **Repo of the day:** [MNIST-Webcam-Prediction](https://github.com/Shyamnair488/MNIST-Webcam-Prediction)  
-> <sub>Jupyter Notebook · ★ 2 · updated 2y ago</sub>
+> 🎯 **Repo of the day:** [ML-Model-Suggestor](https://github.com/Shyamnair488/ML-Model-Suggestor)  
+> <sub>Python · ★ 2 · updated 2y ago</sub>
 >
 > 💭 *Talk is cheap. Show me the code.*
 <!--END_SECTION:spotlight-->
@@ -96,24 +96,24 @@
 | 📦 Repository | 💬 About | 🧪 Language | ⭐ | 🕒 Last push |
 |:--|:--|:--:|:--:|:--:|
 | [**Private-Video-Call**](https://github.com/Shyamnair488/Private-Video-Call) | — | JavaScript | 0 | 2d ago |
+| [**Terraform-villa-haven-ec2**](https://github.com/Shyamnair488/Terraform-villa-haven-ec2) | — | HCL | 0 | 3d ago |
+| [**Terraform-EKS-Nginx**](https://github.com/Shyamnair488/Terraform-EKS-Nginx) | — | HCL | 0 | 5d ago |
+| [**Terraform-EC2-Variables-Output**](https://github.com/Shyamnair488/Terraform-EC2-Variables-Output) | — | HCL | 0 | 5d ago |
+| [**Kubernetes-Mastery-From-Zero-to-Advanced**](https://github.com/Shyamnair488/Kubernetes-Mastery-From-Zero-to-Advanced) | — | Shell | 0 | 5d ago |
 | [**argocd-app**](https://github.com/Shyamnair488/argocd-app) | — | Shell | 0 | 6d ago |
-| [**K8S-Trivy**](https://github.com/Shyamnair488/K8S-Trivy) | — | — | 0 | 7d ago |
-| [**Kubeadm**](https://github.com/Shyamnair488/Kubeadm) | — | — | 0 | 7d ago |
-| [**Ec2-Kubeadm**](https://github.com/Shyamnair488/Ec2-Kubeadm) | — | — | 0 | 7d ago |
-| [**Infinity-Snap-for-Google-Meet**](https://github.com/Shyamnair488/Infinity-Snap-for-Google-Meet) | — | JavaScript | 0 | 3w ago |
 <!--END_SECTION:recent-repos-->
 
 ### 📡 Latest Activity
 
 <!--START_SECTION:activity-->
-- 🌍 Open-sourced [Shyamnair488/Private-Video-Call](https://github.com/Shyamnair488/Private-Video-Call) · <sub>2d ago</sub>
-- 🌍 Open-sourced [Shyamnair488/Ec2-Kubeadm](https://github.com/Shyamnair488/Ec2-Kubeadm) · <sub>7d ago</sub>
-- 🌍 Open-sourced [Shyamnair488/Kubeadm](https://github.com/Shyamnair488/Kubeadm) · <sub>7d ago</sub>
-- 🌍 Open-sourced [Shyamnair488/K8S-Trivy](https://github.com/Shyamnair488/K8S-Trivy) · <sub>7d ago</sub>
-- 🌍 Open-sourced [Shyamnair488/argocd-app](https://github.com/Shyamnair488/argocd-app) · <sub>6d ago</sub>
-- 🍴 Forked [storytold/craft-anything](https://github.com/storytold/craft-anything) · <sub>5d ago</sub>
-- ⬆️ Pushed to [Shyamnair488/argocd-app](https://github.com/Shyamnair488/argocd-app) · <sub>6d ago</sub>
-- 🌍 Open-sourced [Shyamnair488/argocd-app](https://github.com/Shyamnair488/argocd-app) · <sub>6d ago</sub>
+- 🌍 Open-sourced [Shyamnair488/excel-intelligence-studio](https://github.com/Shyamnair488/excel-intelligence-studio) · <sub>6mo ago</sub>
+- 🌍 Open-sourced [Shyamnair488/indiamart-lead-bot](https://github.com/Shyamnair488/indiamart-lead-bot) · <sub>4mo ago</sub>
+- 🌍 Open-sourced [Shyamnair488/lead-whisperer-155](https://github.com/Shyamnair488/lead-whisperer-155) · <sub>4mo ago</sub>
+- 🌍 Open-sourced [Shyamnair488/global-lead-hub](https://github.com/Shyamnair488/global-lead-hub) · <sub>4mo ago</sub>
+- 🌍 Open-sourced [Shyamnair488/certificate-crafter](https://github.com/Shyamnair488/certificate-crafter) · <sub>2mo ago</sub>
+- 🌍 Open-sourced [Shyamnair488/Kubernetes-Mastery-From-Zero-to-Advanced](https://github.com/Shyamnair488/Kubernetes-Mastery-From-Zero-to-Advanced) · <sub>8d ago</sub>
+- 🌍 Open-sourced [Shyamnair488/Terraform-EC2-Variables-Output](https://github.com/Shyamnair488/Terraform-EC2-Variables-Output) · <sub>5d ago</sub>
+- 🌍 Open-sourced [Shyamnair488/Terraform-EKS-Nginx](https://github.com/Shyamnair488/Terraform-EKS-Nginx) · <sub>5d ago</sub>
 <!--END_SECTION:activity-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -162,11 +162,14 @@
 </details>
 
 <details>
-<summary><b>TypeScript</b> &nbsp;<sub>(19)</sub></summary>
+<summary><b>TypeScript</b> &nbsp;<sub>(22)</sub></summary>
 
 - [dossier](https://github.com/Shyamnair488/dossier) 🍴 — A self-hosted job search app that writes tailored resumes and cover letters fro…
 - [docucraft-ai](https://github.com/Shyamnair488/docucraft-ai)
+- [global-lead-hub](https://github.com/Shyamnair488/global-lead-hub)
+- [lead-whisperer-155](https://github.com/Shyamnair488/lead-whisperer-155)
 - [villa-haven-book](https://github.com/Shyamnair488/villa-haven-book) · [🔴 live](https://villa-haven-book.vercel.app)
+- [excel-intelligence-studio](https://github.com/Shyamnair488/excel-intelligence-studio)
 - [buzz-code-academy](https://github.com/Shyamnair488/buzz-code-academy)
 - [Avil-Milk](https://github.com/Shyamnair488/Avil-Milk)
 - [document-dynamo](https://github.com/Shyamnair488/document-dynamo)
@@ -187,6 +190,26 @@
 </details>
 
 <details>
+<summary><b>JavaScript</b> &nbsp;<sub>(14)</sub></summary>
+
+- [Private-Video-Call](https://github.com/Shyamnair488/Private-Video-Call)
+- [Infinity-Snap-for-Google-Meet](https://github.com/Shyamnair488/Infinity-Snap-for-Google-Meet)
+- [certificate-crafter](https://github.com/Shyamnair488/certificate-crafter)
+- [Docker-Zero-to-Hero](https://github.com/Shyamnair488/Docker-Zero-to-Hero)
+- [barber-booking-AWS-MinorProject2](https://github.com/Shyamnair488/barber-booking-AWS-MinorProject2)
+- [Housie-HTML-Website](https://github.com/Shyamnair488/Housie-HTML-Website) — Housie HTML Website · [🔴 live](https://housie-html-website.vercel.app)
+- [indiamart-lead-bot](https://github.com/Shyamnair488/indiamart-lead-bot)
+- [SUN](https://github.com/Shyamnair488/SUN) · [🔴 live](https://sun-fawn-alpha.vercel.app)
+- [Book-My-Farm-Collection-server](https://github.com/Shyamnair488/Book-My-Farm-Collection-server)
+- [Email-Js](https://github.com/Shyamnair488/Email-Js)
+- [React-SS-Infotech-](https://github.com/Shyamnair488/React-SS-Infotech-)
+- [JS-Practice-](https://github.com/Shyamnair488/JS-Practice-)
+- [SET-UP-TAILWIND-CSS](https://github.com/Shyamnair488/SET-UP-TAILWIND-CSS)
+- [Weather-Website](https://github.com/Shyamnair488/Weather-Website)
+
+</details>
+
+<details>
 <summary><b>Python</b> &nbsp;<sub>(14)</sub></summary>
 
 - [flask-hello-world-ecr](https://github.com/Shyamnair488/flask-hello-world-ecr)
@@ -203,24 +226,6 @@
 - [Virtual-Hand-Mouse](https://github.com/Shyamnair488/Virtual-Hand-Mouse)
 - [AI-Friday-Companion](https://github.com/Shyamnair488/AI-Friday-Companion) — Welcome to AI-Friday-Companion, your intelligent AI assistant! Engage in seamle…
 - [Alarm_Clock](https://github.com/Shyamnair488/Alarm_Clock)
-
-</details>
-
-<details>
-<summary><b>JavaScript</b> &nbsp;<sub>(12)</sub></summary>
-
-- [Private-Video-Call](https://github.com/Shyamnair488/Private-Video-Call)
-- [Infinity-Snap-for-Google-Meet](https://github.com/Shyamnair488/Infinity-Snap-for-Google-Meet)
-- [Docker-Zero-to-Hero](https://github.com/Shyamnair488/Docker-Zero-to-Hero)
-- [barber-booking-AWS-MinorProject2](https://github.com/Shyamnair488/barber-booking-AWS-MinorProject2)
-- [Housie-HTML-Website](https://github.com/Shyamnair488/Housie-HTML-Website) — Housie HTML Website · [🔴 live](https://housie-html-website.vercel.app)
-- [SUN](https://github.com/Shyamnair488/SUN) · [🔴 live](https://sun-fawn-alpha.vercel.app)
-- [Book-My-Farm-Collection-server](https://github.com/Shyamnair488/Book-My-Farm-Collection-server)
-- [Email-Js](https://github.com/Shyamnair488/Email-Js)
-- [React-SS-Infotech-](https://github.com/Shyamnair488/React-SS-Infotech-)
-- [JS-Practice-](https://github.com/Shyamnair488/JS-Practice-)
-- [SET-UP-TAILWIND-CSS](https://github.com/Shyamnair488/SET-UP-TAILWIND-CSS)
-- [Weather-Website](https://github.com/Shyamnair488/Weather-Website)
 
 </details>
 
@@ -249,18 +254,28 @@
 </details>
 
 <details>
-<summary><b>Java</b> &nbsp;<sub>(2)</sub></summary>
+<summary><b>HCL</b> &nbsp;<sub>(3)</sub></summary>
 
-- [CV-ROBO-Backend-files](https://github.com/Shyamnair488/CV-ROBO-Backend-files)
-- [JAVA](https://github.com/Shyamnair488/JAVA)
+- [Terraform-villa-haven-ec2](https://github.com/Shyamnair488/Terraform-villa-haven-ec2)
+- [Terraform-EKS-Nginx](https://github.com/Shyamnair488/Terraform-EKS-Nginx)
+- [Terraform-EC2-Variables-Output](https://github.com/Shyamnair488/Terraform-EC2-Variables-Output)
 
 </details>
 
 <details>
-<summary><b>Shell</b> &nbsp;<sub>(2)</sub></summary>
+<summary><b>Shell</b> &nbsp;<sub>(3)</sub></summary>
 
+- [Kubernetes-Mastery-From-Zero-to-Advanced](https://github.com/Shyamnair488/Kubernetes-Mastery-From-Zero-to-Advanced)
 - [argocd-app](https://github.com/Shyamnair488/argocd-app)
 - [Autoscaling-AWS-MinorProject1](https://github.com/Shyamnair488/Autoscaling-AWS-MinorProject1)
+
+</details>
+
+<details>
+<summary><b>Java</b> &nbsp;<sub>(2)</sub></summary>
+
+- [CV-ROBO-Backend-files](https://github.com/Shyamnair488/CV-ROBO-Backend-files)
+- [JAVA](https://github.com/Shyamnair488/JAVA)
 
 </details>
 
@@ -339,7 +354,7 @@ I'm open to **internships, freelance work and collaborations** in full stack dev
 <br/><br/>
 
 <!--START_SECTION:updated-->
-<sub>🤖 Auto-generated by GitHub Actions · last refreshed <b>21 Nov 2026, 07:16 UTC</b></sub>
+<sub>🤖 Auto-generated by GitHub Actions · last refreshed <b>21 Nov 2026, 19:22 UTC</b></sub>
 <!--END_SECTION:updated-->
 
 </div>

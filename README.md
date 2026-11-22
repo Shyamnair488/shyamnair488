@@ -18,8 +18,8 @@
 </div>
 
 <!--START_SECTION:spotlight-->
-> 🎯 **Repo of the day:** [Weather-Website](https://github.com/Shyamnair488/Weather-Website)  
-> <sub>JavaScript · ★ 0 · updated 2y ago</sub>
+> 🎯 **Repo of the day:** [MNIST-Webcam-Prediction](https://github.com/Shyamnair488/MNIST-Webcam-Prediction)  
+> <sub>Jupyter Notebook · ★ 2 · updated 2y ago</sub>
 >
 > 💭 *Done is better than perfect, but shipped is better than done.*
 <!--END_SECTION:spotlight-->
@@ -96,24 +96,24 @@
 | 📦 Repository | 💬 About | 🧪 Language | ⭐ | 🕒 Last push |
 |:--|:--|:--:|:--:|:--:|
 | [**Private-Video-Call**](https://github.com/Shyamnair488/Private-Video-Call) | — | JavaScript | 0 | 3d ago |
-| [**Terraform-villa-haven-ec2**](https://github.com/Shyamnair488/Terraform-villa-haven-ec2) | — | HCL | 0 | 3d ago |
-| [**Terraform-EKS-Nginx**](https://github.com/Shyamnair488/Terraform-EKS-Nginx) | — | HCL | 0 | 5d ago |
-| [**Terraform-EC2-Variables-Output**](https://github.com/Shyamnair488/Terraform-EC2-Variables-Output) | — | HCL | 0 | 5d ago |
+| [**Terraform-villa-haven-ec2**](https://github.com/Shyamnair488/Terraform-villa-haven-ec2) | — | HCL | 0 | 4d ago |
+| [**Terraform-EKS-Nginx**](https://github.com/Shyamnair488/Terraform-EKS-Nginx) | — | HCL | 0 | 6d ago |
+| [**Terraform-EC2-Variables-Output**](https://github.com/Shyamnair488/Terraform-EC2-Variables-Output) | — | HCL | 0 | 6d ago |
 | [**Kubernetes-Mastery-From-Zero-to-Advanced**](https://github.com/Shyamnair488/Kubernetes-Mastery-From-Zero-to-Advanced) | — | Shell | 0 | 6d ago |
-| [**argocd-app**](https://github.com/Shyamnair488/argocd-app) | — | Shell | 0 | 6d ago |
+| [**argocd-app**](https://github.com/Shyamnair488/argocd-app) | — | Shell | 0 | 7d ago |
 <!--END_SECTION:recent-repos-->
 
 ### 📡 Latest Activity
 
 <!--START_SECTION:activity-->
 - 🌍 Open-sourced [Shyamnair488/excel-intelligence-studio](https://github.com/Shyamnair488/excel-intelligence-studio) · <sub>6mo ago</sub>
-- 🌍 Open-sourced [Shyamnair488/indiamart-lead-bot](https://github.com/Shyamnair488/indiamart-lead-bot) · <sub>4mo ago</sub>
-- 🌍 Open-sourced [Shyamnair488/lead-whisperer-155](https://github.com/Shyamnair488/lead-whisperer-155) · <sub>4mo ago</sub>
-- 🌍 Open-sourced [Shyamnair488/global-lead-hub](https://github.com/Shyamnair488/global-lead-hub) · <sub>4mo ago</sub>
 - 🌍 Open-sourced [Shyamnair488/certificate-crafter](https://github.com/Shyamnair488/certificate-crafter) · <sub>2mo ago</sub>
 - 🌍 Open-sourced [Shyamnair488/Kubernetes-Mastery-From-Zero-to-Advanced](https://github.com/Shyamnair488/Kubernetes-Mastery-From-Zero-to-Advanced) · <sub>9d ago</sub>
-- 🌍 Open-sourced [Shyamnair488/Terraform-EC2-Variables-Output](https://github.com/Shyamnair488/Terraform-EC2-Variables-Output) · <sub>5d ago</sub>
-- 🌍 Open-sourced [Shyamnair488/Terraform-EKS-Nginx](https://github.com/Shyamnair488/Terraform-EKS-Nginx) · <sub>5d ago</sub>
+- 🌍 Open-sourced [Shyamnair488/Terraform-EC2-Variables-Output](https://github.com/Shyamnair488/Terraform-EC2-Variables-Output) · <sub>6d ago</sub>
+- 🌍 Open-sourced [Shyamnair488/Terraform-EKS-Nginx](https://github.com/Shyamnair488/Terraform-EKS-Nginx) · <sub>6d ago</sub>
+- 🌍 Open-sourced [Shyamnair488/Terraform-villa-haven-ec2](https://github.com/Shyamnair488/Terraform-villa-haven-ec2) · <sub>4d ago</sub>
+- 🌍 Open-sourced [Shyamnair488/Private-Video-Call](https://github.com/Shyamnair488/Private-Video-Call) · <sub>3d ago</sub>
+- 🌍 Open-sourced [Shyamnair488/Ec2-Kubeadm](https://github.com/Shyamnair488/Ec2-Kubeadm) · <sub>8d ago</sub>
 <!--END_SECTION:activity-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -162,12 +162,10 @@
 </details>
 
 <details>
-<summary><b>TypeScript</b> &nbsp;<sub>(22)</sub></summary>
+<summary><b>TypeScript</b> &nbsp;<sub>(20)</sub></summary>
 
 - [dossier](https://github.com/Shyamnair488/dossier) 🍴 — A self-hosted job search app that writes tailored resumes and cover letters fro…
 - [docucraft-ai](https://github.com/Shyamnair488/docucraft-ai)
-- [global-lead-hub](https://github.com/Shyamnair488/global-lead-hub)
-- [lead-whisperer-155](https://github.com/Shyamnair488/lead-whisperer-155)
 - [villa-haven-book](https://github.com/Shyamnair488/villa-haven-book) · [🔴 live](https://villa-haven-book.vercel.app)
 - [excel-intelligence-studio](https://github.com/Shyamnair488/excel-intelligence-studio)
 - [buzz-code-academy](https://github.com/Shyamnair488/buzz-code-academy)
@@ -190,26 +188,6 @@
 </details>
 
 <details>
-<summary><b>JavaScript</b> &nbsp;<sub>(14)</sub></summary>
-
-- [Private-Video-Call](https://github.com/Shyamnair488/Private-Video-Call)
-- [Infinity-Snap-for-Google-Meet](https://github.com/Shyamnair488/Infinity-Snap-for-Google-Meet)
-- [certificate-crafter](https://github.com/Shyamnair488/certificate-crafter)
-- [Docker-Zero-to-Hero](https://github.com/Shyamnair488/Docker-Zero-to-Hero)
-- [barber-booking-AWS-MinorProject2](https://github.com/Shyamnair488/barber-booking-AWS-MinorProject2)
-- [Housie-HTML-Website](https://github.com/Shyamnair488/Housie-HTML-Website) — Housie HTML Website · [🔴 live](https://housie-html-website.vercel.app)
-- [indiamart-lead-bot](https://github.com/Shyamnair488/indiamart-lead-bot)
-- [SUN](https://github.com/Shyamnair488/SUN) · [🔴 live](https://sun-fawn-alpha.vercel.app)
-- [Book-My-Farm-Collection-server](https://github.com/Shyamnair488/Book-My-Farm-Collection-server)
-- [Email-Js](https://github.com/Shyamnair488/Email-Js)
-- [React-SS-Infotech-](https://github.com/Shyamnair488/React-SS-Infotech-)
-- [JS-Practice-](https://github.com/Shyamnair488/JS-Practice-)
-- [SET-UP-TAILWIND-CSS](https://github.com/Shyamnair488/SET-UP-TAILWIND-CSS)
-- [Weather-Website](https://github.com/Shyamnair488/Weather-Website)
-
-</details>
-
-<details>
 <summary><b>Python</b> &nbsp;<sub>(14)</sub></summary>
 
 - [flask-hello-world-ecr](https://github.com/Shyamnair488/flask-hello-world-ecr)
@@ -226,6 +204,25 @@
 - [Virtual-Hand-Mouse](https://github.com/Shyamnair488/Virtual-Hand-Mouse)
 - [AI-Friday-Companion](https://github.com/Shyamnair488/AI-Friday-Companion) — Welcome to AI-Friday-Companion, your intelligent AI assistant! Engage in seamle…
 - [Alarm_Clock](https://github.com/Shyamnair488/Alarm_Clock)
+
+</details>
+
+<details>
+<summary><b>JavaScript</b> &nbsp;<sub>(13)</sub></summary>
+
+- [Private-Video-Call](https://github.com/Shyamnair488/Private-Video-Call)
+- [Infinity-Snap-for-Google-Meet](https://github.com/Shyamnair488/Infinity-Snap-for-Google-Meet)
+- [certificate-crafter](https://github.com/Shyamnair488/certificate-crafter)
+- [Docker-Zero-to-Hero](https://github.com/Shyamnair488/Docker-Zero-to-Hero)
+- [barber-booking-AWS-MinorProject2](https://github.com/Shyamnair488/barber-booking-AWS-MinorProject2)
+- [Housie-HTML-Website](https://github.com/Shyamnair488/Housie-HTML-Website) — Housie HTML Website · [🔴 live](https://housie-html-website.vercel.app)
+- [SUN](https://github.com/Shyamnair488/SUN) · [🔴 live](https://sun-fawn-alpha.vercel.app)
+- [Book-My-Farm-Collection-server](https://github.com/Shyamnair488/Book-My-Farm-Collection-server)
+- [Email-Js](https://github.com/Shyamnair488/Email-Js)
+- [React-SS-Infotech-](https://github.com/Shyamnair488/React-SS-Infotech-)
+- [JS-Practice-](https://github.com/Shyamnair488/JS-Practice-)
+- [SET-UP-TAILWIND-CSS](https://github.com/Shyamnair488/SET-UP-TAILWIND-CSS)
+- [Weather-Website](https://github.com/Shyamnair488/Weather-Website)
 
 </details>
 
@@ -354,7 +351,7 @@ I'm open to **internships, freelance work and collaborations** in full stack dev
 <br/><br/>
 
 <!--START_SECTION:updated-->
-<sub>🤖 Auto-generated by GitHub Actions · last refreshed <b>22 Nov 2026, 06:58 UTC</b></sub>
+<sub>🤖 Auto-generated by GitHub Actions · last refreshed <b>22 Nov 2026, 19:45 UTC</b></sub>
 <!--END_SECTION:updated-->
 
 </div>
